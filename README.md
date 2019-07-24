@@ -1,3 +1,5 @@
 # Applied Machine Learning
 
-Used sklearn, TensorFlow/Keras, and PyTorch. 
+Dartmouth Quantitative Biomedical Sciences course taught by Professor Saeed Hassanpour where we learned the fundamentals of machine learning and deep learning using sklearn, TensorFlow/Keras, and PyTorch.
+
+Developed feed forward neural networks, convolutional neural networks using transfer learning on ResNet18, and sentiment analysis using LSTM.
